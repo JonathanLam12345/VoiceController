@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jonathan Lam\.android\build-cache\6e400d2ca3744dd3e9da73b4a845d9f25bcb2c40\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Android_Studio_Projects\Android Voice Controller1\app\build\intermediates\pre-dexed\debug\classes_4d9a8f738502b77408fe5e09cb792dec91d2fdb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jonathan Lam\.android\build-cache\c62a1d77ba55ff78b3007560854ec08c4befe248\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Android_Studio_Projects\Android Voice Controller1\app\build\intermediates\pre-dexed\debug\classes_63f327498f92adc0bdf1a72e5b2bc0889b491940.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jonathan Lam\.android\build-cache\73d72f0bd42f727d5c70cab9528707bad043e7b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Android_Studio_Projects\Android Voice Controller1\app\build\intermediates\pre-dexed\debug\classes_338c52518b6c6f528a428dd7cd80a70f48207333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jonathan Lam\.android\build-cache\79c2dc1e745af5f66f6ce2e73962c7d62e20b4c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Android_Studio_Projects\Android Voice Controller1\app\build\intermediates\pre-dexed\debug\classes_897df0ec22c2ba13cd4a619ccbf28148b8421827.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jonathan Lam\.android\build-cache\058ea16a8e90f045c188fd81fdf3a9947db7a49f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Android_Studio_Projects\Android Voice Controller1\app\build\intermediates\pre-dexed\debug\classes_e8975c0fb84afd216413e4d11720592acc793445.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jonathan Lam\.android\build-cache\9f44478c614ee0aeff038f3f71f35c83e2362fd4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Android_Studio_Projects\Android Voice Controller1\app\build\intermediates\pre-dexed\debug\classes_2932cccc37bd9106cc1a9e224058d05f0786fa83.jar" />
+    </item>
+
+</items>

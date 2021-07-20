@@ -1,0 +1,78 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.voice.controller.client"
+4    android:versionCode="3"
+5    android:versionName="2.0.1" >
+6
+7    <uses-sdk
+7-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:8:5-47
+8        android:minSdkVersion="16"
+8-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:8:5-47
+9        android:targetSdkVersion="29" />
+9-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:8:15-44
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:10:5-38:19
+15        android:allowBackup="true"
+15-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:11:9-35
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:12:9-43
+17        android:label="@string/app_name"
+17-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:13:9-41
+18        android:theme="@style/AppTheme" >
+18-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:14:9-40
+19        <activity
+19-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:15:9-25:20
+20            android:name="com.voice.controller.client.MyActivity"
+20-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:16:13-66
+21            android:label="@string/app_name"
+21-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:17:13-45
+22            android:screenOrientation="portrait"
+22-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:18:13-49
+23            android:windowSoftInputMode="stateHidden|adjustResize" >
+23-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:19:13-67
+24            <intent-filter>
+24-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:20:13-24:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:21:17-69
+25-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:21:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:23:17-77
+27-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:23:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity
+30-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:26:9-29:92
+31            android:name="com.voice.controller.client.IPAddress"
+31-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:27:13-65
+32            android:label="@string/app_name"
+32-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:28:13-45
+33            android:parentActivityName="com.voice.controller.client.MyActivity" />
+33-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:29:13-80
+34        <activity
+34-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:30:9-33:92
+35            android:name="com.voice.controller.client.About"
+35-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:31:13-61
+36            android:label="@string/app_name"
+36-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:32:13-45
+37            android:parentActivityName="com.voice.controller.client.MyActivity" />
+37-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:33:13-80
+38        <activity
+38-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:34:9-37:92
+39            android:name="com.voice.controller.client.Help"
+39-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:35:13-60
+40            android:label="@string/app_name"
+40-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:36:13-45
+41            android:parentActivityName="com.voice.controller.client.MyActivity" />
+41-->C:\Android_Studio_Projects\Android Voice Controller1\app\src\main\AndroidManifest.xml:37:13-80
+42    </application>
+43
+44</manifest>

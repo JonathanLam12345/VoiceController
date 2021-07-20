@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_send_selector.xml.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\drawable\\send_selector.xml"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_help.png.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_help.png"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\menu_about_activity_actions.xml.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\menu\\about_activity_actions.xml"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\layout_ip_address.xml.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\layout\\ip_address.xml"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_btn_speak_now.png.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\drawable-hdpi\\ic_btn_speak_now.png"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_presence_audio_away.png.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\drawable-hdpi\\presence_audio_away.png"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\menu_ip_message.xml.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\menu\\ip_message.xml"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_network_wifi.png.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_network_wifi.png"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\layout_help.xml.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_home.png.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_home.png"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_refresh.png.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_overflow.png.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_overflow.png"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\menu_help_activity_actions.xml.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\menu\\help_activity_actions.xml"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_mic.png.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_mic.png"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_about.png.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_about.png"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\menu_ip_activity_actions.xml.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\menu\\ip_activity_actions.xml"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\layout_about.xml.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\menu_about_message.xml.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\menu\\about_message.xml"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_send_now.png.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_send_now.png"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_activity_actions.xml.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\menu\\main_activity_actions.xml"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\menu_help_message.xml.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\menu\\help_message.xml"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_icon_launcher.jpg.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\drawable\\ic_icon_launcher.jpg"
+    },
+    {
+        "merged": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mic_selector.xml.flat",
+        "source": "C:\\Android_Studio_Projects\\Android Voice Controller1\\app\\src\\main\\res\\drawable\\mic_selector.xml"
+    }
+]

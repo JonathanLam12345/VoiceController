@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_action_about"
+        android:showAsAction="always"
+        android:title="@string/about"/>
+    <item
+        android:id="@+id/ip_address"
+        android:icon="@drawable/ic_action_network_wifi"
+        android:showAsAction="always"
+        android:title="@string/ip_address"/>
+    <item
+        android:id="@+id/help"
+        android:icon="@drawable/ic_action_help"
+        android:showAsAction="always"
+        android:title="@string/help"/>
+
+</menu>

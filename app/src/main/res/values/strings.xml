@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Voice Controller</string>
+    <string name="main">Home</string>
+    <string name="ip_address">Connect</string>
+    <string name="send">Send</string>
+    <string name="connect">Connect</string>
+    <string name="address">Enter your IPv4 Address: </string>
+    <string name="description">Please input the correct IPv4 Address for the Wifi connected to your desktop and press connect. </string>
+    <string name="btSpeak">Speak</string>
+    <string name="about">About</string>
+    <string name="aboutDescription">Voice controller is an intelligent personal assistant Android application that allows you to control your Windows computer just by verbally saying commands on your mobile device using the English language. This app makes it possible for you to control your computer using natural language commands and makes your life easier.\n\nIts main purpose of our app is to assist people who do not have access to conventional input devices (mouse/keyboard) due to various reasons like disability, hardware failure or simply being too busy to access their computer directly. Our program provides a viable alternative of a more hands-off interaction while still viewing the screen but being away from the mouse and keyboard.\n\n\nDeveloped by: Jonathan Lam</string>
+    <string name="help">Help</string>
+    <string name="custom">Add custom files location</string>
+    <string name="helpDescription"></string>
+	<string-array name="helpDescription">
+        <item><b><font size="20">Search in the default browser\n\nExample: </font></b><font color="blue" size="16">\"Search hello world\"</font></item>
+        <item><b><font size="20">Search YouTube in the default browser\n\nExample: </font></b><font color="blue" size="16">\"YouTube hello world\"</font></item>
+        <item><b><font size="20">Type message\n\nExample: </font></b><font color="blue" size="16">\"Type hello world\"</font></item>
+        <item><b><font size="20">Microsoft Office\n\n</font></b><font color="blue" size="16">\"Open Microsoft Word\"\n\"Open Microsoft Excel\"\n\"Open Microsoft PowerPoint\"\n\"Open Microsoft OneNote\"\n\"Open Microsoft Outlook\"\n\nLooks in default Microsoft Office location</font></item>
+        <item><b><font size="20">*Add new folder location for Microsoft Office applications\n\nExample: </font></b><font color="blue" size="16">\"Custom Microsoft C:\\Program Files (x86)\\Microsoft Office\\Office15\"</font></item>
+        <item><b><font size="20">Watch video .mp4, .avi, .wmv\n\nExample: </font></b><font color="blue" size="16">\"Watch The Hobbit\"\n\nLooks for video in C:\\Users\\Username\\Videos</font></item>
+        <item><b><font size="20">*Add new location to look in for videos\n\nExample: </font></b><font color="blue" size="16">\"Custom video C:\\Users\\Username\\Desktop\"</font></item>
+        <item><b><font size="20">Play music .mp3, .aif, .wav\n\nExample: </font></b><font color="blue" size="16">\"Play Shake it Off\"\n\nLooks for music in C:\\Users\\Username\\Music</font></item>
+        <item><b><font size="20">*Add new location to look in for music\n\nExample: </font></b><font color="blue" size="16">\"Custom music C:\\Users\\Username\\Desktop\"</font></item>
+        <item><b><font size="20">Windows Media Player Controls\n</font></b><font color="blue" size="16">\"Full screen\"\n\"Media Play\"\n\"Media Pause\"</font></item>
+   		<item><b><font size="20">Window Controls\n</font></b><font color="blue" size="16">\"Close\"\n\"Maximize\"\n\"Minimize\"</font></item>
+    	<item><b><font size="20">Basic Controls\n</font></b><font color="blue" size="16">\"Up\"\n\"Down\"\n\"Left\"\n\"Right\"\n\"Click\"\n\"Back\"\n\"Home\"\n\"Save\"\n\"Print\"\n\"Undo\"\n\"Redo\"\n\"Delete\"\n\"Backspace\"</font></item>    
+   		<item><b><font size="20">*\n</font></b><font color="red" size="16">Custom Locations should only be used if command does not work. They do not save and must be added every time new connection is made.</font></item>
+    </string-array>
+</resources>
